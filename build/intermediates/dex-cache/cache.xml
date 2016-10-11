@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_cc7d89a5f597bd2a6588c66ec4bac4f3cd50698c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_498137fc1bf5000684e85b70450fc39f0e077ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_115e183f114518798dc5bcbdf6897cd5d9b4494a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_5fafcfc8d24c40a3d43488e8d487b4b04d6ed154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5d606743b6ddebef48efa4ebc1beb038c0ea5141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_04ceb57475e6965409f1f61589cc8e2ff2d68207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_6989574d48a0d329dfcf6f468629f91ec50d2c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9d86bdb681251ead316703d9646dafbc0a3c8f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_f78c750e8d6ccdf87a40603ed80106aa23f183a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_c4fdd514e9a5d54433048aa83e7ab13ce09acfdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.kenber.doublestickyheaderslist/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ad34f3f008928dbb478ef7a2150b0b89a5c37523">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.kenber.doublestickyheaderslist-library-1.0.0_e4b961a58f4e4ee61a82e77dacd788937a8218ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_9f8fe27692748bcd5aa487b0a10f2c05ab7cda64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_11b6fbc36eccb5a6b4416d44ef9e4f96ba9104d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_7f75213dee469a80b83804c7ea5c5efc939b8ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8bf8b17a9c12ece3ef72732fce9e8668aafb1048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qufenqi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/qufenqi/Desktop/DoubleStickyHeadersList-master/example/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_ffb22a0ce6e55f69f7bce3d0671da7c39bc81af3.jar" />
+    </item>
+
+</items>
